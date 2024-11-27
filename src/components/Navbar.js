@@ -76,7 +76,7 @@ export const Navbar = () => {
             </div>
 
             <button className='vv' onClick={() => console.log('connect')}>
-              Let's Connect {/* Button to connect */}
+              Let's Connect 
             </button>
           </span>
         </BootstrapNavbar.Collapse>
@@ -85,4 +85,4 @@ export const Navbar = () => {
   );
 };
 
-export default Navbar; // Exporting the NavBar component for use in other files
+export default Navbar; 
